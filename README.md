@@ -1,4 +1,4 @@
-Reese St Amant — Resume
+Reese St Amant - Resume
 
 This repo hosts my current resume as a downloadable/linkable PDF.
 
