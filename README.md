@@ -2,7 +2,7 @@ Reese St Amant - Resume
 
 This repo hosts my current resume as a downloadable/linkable PDF.
 
-Live file: resume.pdf
+Live file: reese-st-amant-resume.pdf
 
 About
 
